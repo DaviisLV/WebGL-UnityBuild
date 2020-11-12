@@ -1,6 +1,6 @@
 {
-"companyName": "vai",
-"productName": "MotorTest",
+"companyName": "DefaultCompany",
+"productName": "Arrrgh",
 "productVersion": "0.1",
 "dataUrl": "WebGL-UnityBuild.data.unityweb",
 "wasmCodeUrl": "WebGL-UnityBuild.wasm.code.unityweb",
